@@ -1,7 +1,7 @@
-vendor/
-node_modules/
+config.php
+.env
 *.log
 .DS_Store
-.env
-/tests/output/
-uploads/
+Thumbs.db
+uploads/*
+!uploads/.gitkeep
